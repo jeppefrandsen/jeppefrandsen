@@ -11,10 +11,9 @@ jobs:
         GITHUB_STARS=$(curl -s https://api.github.com/repos/$GITHUB_REPOSITORY | jq -r .stargazers_count)
         GIPHY_RESPONSE=$(curl -s "http://api.giphy.com/v1/gifs/search?q=${GITHUB_STARS}&api_key=${{secrets.GIPHY_API_KEY}}&limit=1")
         GIPHY_URL=$(echo $GIPHY_RESPONSE | jq -r .data[0].images.original.url | cut -d '?' -f1)
-        echo $GIPHY_URL
-        wget $GIPHY_URL
+        wget -q $GIPHY_URL
     - name: Upload Giphy to Dropbox
       run: |
-        curl -X POST "https://api-content.dropbox.com/2/files/upload" -H "Authorization: Bearer ${{secrets.DROPBOX_API_KEY}}" \
+        curl -s -X POST "https://api-content.dropbox.com/2/files/upload" -H "Authorization: Bearer ${{secrets.DROPBOX_API_KEY}}" \
           -H "Content-Type: application/octet-stream" -H "Dropbox-API-Arg: {\"path\": \"/giphy.gif\", \"mode\": \"overwrite\"}" \
-          --data-binary @/tmp/giphy.gif
+          --data-binary @giphy.gif
