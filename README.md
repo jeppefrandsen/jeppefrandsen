@@ -3,5 +3,7 @@
 Please ⭐ this repository to help me get the counter below updated 🤩. It might take a minute or two to change 😊
 
 <p align="center">
-    <img src="https://dl.dropboxusercontent.com/s/8hvh2kz492wb4bv/giphy.gif?dl=0" width="25%"></img>
+    <img width="200" height="200" src="https://dl.dropboxusercontent.com/s/c0s260x8ofru4ek/giphy3.gif?dl=0"></img>
+    <img width="200" height="200" src="https://dl.dropboxusercontent.com/s/rm4s99r7rmkprju/giphy2.gif?dl=0"></img>
+    <img width="200" height="200" src="https://dl.dropboxusercontent.com/s/7j6sji2xh82wiil/giphy1.gif?dl=0"></img>
 </p>
