@@ -1,6 +1,8 @@
-## 👋 Hi. My name is Jeppe Frandsen 🤓
+## Hi 👋. My name is Jeppe Frandsen 🤓
 
-Please ⭐ this repository to help me get the counter below updated 🤩. It might take a minute or two to change 😊
+I'm a 40 year old software architect/developer from Denmark developing everything from bootloaders to applications in C/C++. Did I mention I :heart: GitHub?
+
+I will be grateful if you could ⭐ this repository and help me get the counter below updated 🥰. It might take a couple of minutes to update depending on your browser.
 
 <p align="center">
     <img width="75" height="75" src="https://dl.dropboxusercontent.com/s/8377bdbe1abl2t7/star.png?dl=0"></img>
