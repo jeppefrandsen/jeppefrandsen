@@ -14,7 +14,7 @@ jobs:
             GIPHY_URL=$(echo $GIPHY_RESPONSE | jq -r .data[0].images.downsized.url | cut -d '?' -f1)
             wget -q -O /tmp/giphy.gif $GIPHY_URL
             curl -s -X POST "https://api-content.dropbox.com/2/files/upload" -H "Authorization: Bearer ${{secrets.DROPBOX_API_KEY}}" \
-                -H "Content-Type: application/octet-stream" -H "Dropbox-API-Arg: {\"path\": \"/${1}.gif\", \"mode\": \"overwrite\"}" \
+                -H "Content-Type: application/octet-stream" -H "Dropbox-API-Arg: {\"path\": \"/${1}\", \"mode\": \"overwrite\"}" \
                 --data-binary @/tmp/giphy.gif 1>/dev/null
         }
         update_image "giphy1.gif" "$((GITHUB_STARS % 10))"
