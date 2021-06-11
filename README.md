@@ -1,6 +1,6 @@
 ## Hi 👋. My name is Jeppe Frandsen 🤓
 
-I'm a 40 year old software architect/developer from Denmark developing everything from bootloaders to applications in C/C++. Did I mention I :heart: GitHub?
+I'm a 40 year old software architect/developer from Denmark developing everything from bootloaders to applications in C/C++. Did I mention I :heart: :octodat:?
 
 I will be grateful if you could ⭐ this repository and help me get the counter below updated 🥰. It might take a couple of minutes to update depending on your browser.
 
