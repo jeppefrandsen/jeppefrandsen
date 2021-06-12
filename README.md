@@ -2,7 +2,7 @@
 
 ## Hi 👋. My name is Jeppe Frandsen
 
-I am a 40 year old software architect/developer from Denmark, developing everything from bootloaders to applications in C/C++. Preferred development PC is an Apple MacBook Pro.
+I am a 40 year old software architect/developer from Denmark 🇩🇰, developing everything from bootloaders to applications in C/C++. Preferred development PC is an Apple MacBook Pro 💻.
 
 I will be grateful if you could ⭐ this repository and help me get the counter below updated 🥰. It might take a couple of minutes to update depending on your browser.
 
