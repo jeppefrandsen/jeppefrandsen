@@ -1,6 +1,8 @@
+<img width="200" src="https://dl.dropboxusercontent.com/s/qck6gfatsljt7ub/jeppe.png?dl=0"></img>
+
 ## Hi 👋. My name is Jeppe Frandsen 🤓
 
-I'm a 40 year old software architect/developer from Denmark developing everything from bootloaders to applications in C/C++.
+I'm a 40 year old software architect/developer from Denmark, developing everything from bootloaders to applications in C/C++.
 
 I will be grateful if you could ⭐ this repository and help me get the counter below updated 🥰. It might take a couple of minutes to update depending on your browser.
 
