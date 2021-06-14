@@ -2,7 +2,7 @@
 
 ## Hi, My name is Jeppe
 
-I am a 40 year old software architect/developer from Denmark 🇩🇰, developing everything from bootloaders to applications in C/C++. Preferred development PC is an Apple MacBook Pro 💻. 
+I am a 40 year old software architect/developer from Denmark 🇩🇰 working at [Bang & Olufsen](https://www.bang-olufsen.com/) 🎧📻📺. As part of my job I develop everything from bootloaders to applications in C/C++. 
 
 I will be grateful if you could star this repository and help me get the counter below updated. It might take a minute or two to update.
 
