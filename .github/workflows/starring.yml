@@ -10,8 +10,8 @@ jobs:
       run: |
         GITHUB_STARS=$(curl -s https://api.github.com/repos/$GITHUB_REPOSITORY | jq -r .stargazers_count)
         update_image() {
-            GIPHY_RESPONSE=$(curl -s "http://api.giphy.com/v1/stickers/search?q=${2}@lil_ye&api_key=${{secrets.GIPHY_API_KEY}}&limit=1")
-            GIPHY_URL=$(echo "$GIPHY_RESPONSE" | jq -r .data[0].images.downsized.url | cut -d '?' -f1)
+            GIPHY_RESPONSE=$(curl -s "http://api.giphy.com/v1/stickers/search?q=${2}@mrcartes&api_key=${{secrets.GIPHY_API_KEY}}&limit=1")
+            GIPHY_URL=$(echo "$GIPHY_RESPONSE" | jq -r .data[0].images.downsized_still.url | cut -d '?' -f1)
             wget -q -O /tmp/giphy.gif "$GIPHY_URL"
             curl -s -X POST "https://api-content.dropbox.com/2/files/upload" -H "Authorization: Bearer ${{secrets.DROPBOX_API_KEY}}" \
                 -H "Content-Type: application/octet-stream" -H "Dropbox-API-Arg: {\"path\": \"/giphy${1}.gif\", \"mode\": \"overwrite\"}" \
