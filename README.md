@@ -8,10 +8,10 @@ I will be grateful if you could star this repository and help me get the counter
 
 <p align="center">
     <img height="75" src="https://dl.dropboxusercontent.com/s/98hrv39reetuunh/thumbs-up.png?dl=0"></img>
-    <img width="50" height="150" src="https://dl.dropboxusercontent.com/s/kgnquhegw60j857/white.png?dl=0"></img>
-    <img width="150" height="150" src="https://dl.dropboxusercontent.com/s/ki3z5ws0vjrxbap/giphy4.gif?dl=0"></img>
-    <img width="150" height="150" src="https://dl.dropboxusercontent.com/s/wlf7uqfgz8f64dg/giphy3.gif?dl=0"></img>
-    <img width="150" height="150" src="https://dl.dropboxusercontent.com/s/rm4s99r7rmkprju/giphy2.gif?dl=0"></img>
-    <img width="150" height="150" src="https://dl.dropboxusercontent.com/s/7j6sji2xh82wiil/giphy1.gif?dl=0"></img>
-    <img width="150" height="150" src="https://dl.dropboxusercontent.com/s/5lpx9a386ux24e6/giphy0.gif?dl=0"></img>
+    <img width="25" height="125" src="https://dl.dropboxusercontent.com/s/kgnquhegw60j857/white.png?dl=0"></img>
+    <img width="125" height="125" src="https://dl.dropboxusercontent.com/s/ki3z5ws0vjrxbap/giphy4.gif?dl=0"></img>
+    <img width="125" height="125" src="https://dl.dropboxusercontent.com/s/wlf7uqfgz8f64dg/giphy3.gif?dl=0"></img>
+    <img width="125" height="125" src="https://dl.dropboxusercontent.com/s/rm4s99r7rmkprju/giphy2.gif?dl=0"></img>
+    <img width="125" height="125" src="https://dl.dropboxusercontent.com/s/7j6sji2xh82wiil/giphy1.gif?dl=0"></img>
+    <img width="125" height="125" src="https://dl.dropboxusercontent.com/s/5lpx9a386ux24e6/giphy0.gif?dl=0"></img>
 </p>
