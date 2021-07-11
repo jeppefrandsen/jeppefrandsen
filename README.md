@@ -2,7 +2,7 @@
 
 ## Hi, My name is Jeppe
 
-I am a 40 year old software architect/developer from Denmark 🇩🇰, developing awesome products at [Bang & Olufsen](https://www.bang-olufsen.com/) 🎧. My focus is mainly audio products and I develop everything from bootloaders to applications/features in C/C++. My preferred development PC is a MacBook Pro 💻.
+I am a 41 year old software architect/developer from Denmark 🇩🇰, developing awesome products at [Bang & Olufsen](https://www.bang-olufsen.com/) 🎧. My focus is mainly audio products and I develop everything from bootloaders to applications/features in C/C++. My preferred development PC is a MacBook Pro 💻.
 
 I will be grateful if you could star this repository and help me get the counter below updated. It might take a minute or two to update.
 
