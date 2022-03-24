@@ -2,7 +2,7 @@
 
 ## Hi, My name is Jeppe
 
-I am a 41 year old software architect/developer from Denmark. My focus is mainly audio products and I develop everything from bootloaders to applications/features in C/C++. My preferred development PC is a MacBook Pro 💻.
+I am a 41 year old software architect/developer from Denmark, working on everything from bootloaders to applications/features in C/C++. My preferred development PC is a MacBook Pro 💻.
 
 I will be grateful if you could star this repository and help me get the counter below updated. It might take a minute or two to update.
 
